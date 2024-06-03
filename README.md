@@ -1,8 +1,37 @@
-# React + Vite
+# Todo List React Mini Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple Todo List application i built to apply my React skills. The application allows users to add, delete, and mark tasks as complete.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new tasks
+- Delete tasks
+- Mark tasks as complete
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/ShadrackMwema/To-do-list.git
+    cd todo-list-react
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+    ```bash
+    npm start
+    ```
+
+The application should now be running on `http://localhost:3000`.
+
+## Usage
+
+1. **Adding a Task:** Enter the task description in the input field and click the "Add Task" button.
+2. **Deleting a Task:** Click the "Delete" button next to the task you want to remove.
+3. **Marking a Task as Complete:** Click the checkbox next to the task to mark it as complete.
