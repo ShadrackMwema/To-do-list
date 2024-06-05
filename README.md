@@ -1,3 +1,4 @@
+![image](https://github.com/ShadrackMwema/To-do-list/assets/143826609/fc4f6562-f15e-4808-add6-0426a48f33de)
 # Todo List React Mini Project
 
 This project is a simple Todo List application i built to apply my React skills. The application allows users to add, delete, and mark tasks as complete.
